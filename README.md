@@ -3,7 +3,7 @@
 Official installable plugin package for Snippets Code.
 
 - Plugin ID: `search-engines`
-- Version: `2.0.3`
+- Version: `2.0.4`
 - Source: `docs/plugin-packages/search-engines`
 - App compatibility: `>=1.5.6`
 
@@ -16,7 +16,7 @@ https://github.com/GigaPuddings/snippets-code-plugin-search-engines/archive/refs
 Versioned release URL:
 
 ```text
-https://github.com/GigaPuddings/snippets-code-plugin-search-engines/archive/refs/tags/2.0.3.zip
+https://github.com/GigaPuddings/snippets-code-plugin-search-engines/archive/refs/tags/2.0.4.zip
 ```
 
 This repository is synchronized from the main application repository by
